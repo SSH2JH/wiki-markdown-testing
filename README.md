@@ -2,7 +2,6 @@
 
 |Sisältö||
 |----------|--------------|
-|Vaatimusmäärittely|placeholder|
 |Vaatimusmäärittely|[Linkki vaatimusmäärittelyyn](https://github.com/SSH2JH/wiki-markdown-testing/wiki/vaatimusmäärittely)|
 |Asiakasprofiili|placeholderia|
 

@@ -2,7 +2,7 @@
 
 |----------|--------------|
 |Vaatimusmäärittely|placeholder|
-|HienoKuva|![](http://edge.alluremedia.com.au/m/k/2015/08/gta-5-mass-effect-reaper-mod-1.jpg)|
+|Vaatimusmäärittely|[Linkki vaatimusmäärittelyyn](https://github.com/SSH2JH/wiki-markdown-testing/wiki/vaatimusmäärittely)|
 |Asiakasprofiili|placeholderia|
 
 ## TTOS0100 Kurssin harjoitustyö HT0

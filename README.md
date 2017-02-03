@@ -1,5 +1,6 @@
 # Lopputyön palautus -palvelun vaatimusmäärittely
 
+|Sisältö||
 |----------|--------------|
 |Vaatimusmäärittely|placeholder|
 |Vaatimusmäärittely|[Linkki vaatimusmäärittelyyn](https://github.com/SSH2JH/wiki-markdown-testing/wiki/vaatimusmäärittely)|
